@@ -1,0 +1,15 @@
+[
+{
+  "modid": "ade",
+  "name": "A Day's End",
+  "description": "Inspired by Fallout 4, A Day's End takes the post apocalypse idea and adds a steampunk aspect to it.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList”:”LoafOFDoggo”,
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
