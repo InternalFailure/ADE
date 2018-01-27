@@ -1,0 +1,13 @@
+        /*if (!playerIn.capabilities.isCreativeMode && !flag && worldIn.isRemote)
+        {
+            return flag ? new ActionResult(EnumActionResult.PASS, itemstack) : new ActionResult(EnumActionResult.FAIL, itemstack);
+        }
+        else
+        {
+            float x = -MathHelper.sin(playerIn.rotationYaw * 0.017F) * MathHelper.cos(playerIn.rotationPitch * 0.017F);
+            float y = -MathHelper.sin(playerIn.rotationPitch * 0.017F);
+            float z = MathHelper.cos(playerIn.rotationYaw * 0.017F) * MathHelper.cos(playerIn.rotationPitch * 0.017F);
+            playerIn.setActiveHand(handIn);
+            worldIn.spawnEntity(new EntityBullet(worldIn, playerIn, damage, x, y, z));
+            return new ActionResult<ItemStack>(EnumActionResult.SUCCESS, itemstack);
+        }*/

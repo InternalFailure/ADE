@@ -1,15 +1,12 @@
-[
-{
+[{
   "modid": "ade",
   "name": "A Day's End",
-  "description": "Inspired by Fallout 4, A Day's End takes the post apocalypse idea and adds a steampunk aspect to it.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList”:”LoafOFDoggo”,
+  "description": "Some generic post apocalyptic mod thing with guns, mini-nukes and these zombie-like things. I don't think it's a Minecraft rip off of Nuke out or whatever.",
+  "version": "v0.32",
+  "mcversion": "1.12.2",
   "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
-}
-]
+  "url": "",
+  "updateJSON": "",
+  "authorList": ["LoafOfDoggo - the local disappointment who made this thing"],
+  "credits": "I'd like to thank my mother and father. I disappoint them."
+}]
