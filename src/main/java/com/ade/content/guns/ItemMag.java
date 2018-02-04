@@ -20,10 +20,4 @@ public class ItemMag extends Item
         this.setUnlocalizedName(name);
     }
     
-    public EntityBullet createBullet(World worldIn, ItemStack stack, EntityLivingBase shooter) 
-    {
-    	EntityBullet entitybullet = new EntityBullet(worldIn, shooter);
-		return null;
-    }
-    
 }
